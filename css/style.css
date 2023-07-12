@@ -1,0 +1,119 @@
+body {
+  background-image: url("/img/back.webp");
+  background-repeat: repeat;
+  background-color: #151515;
+  padding: 0 10px;
+}
+
+footer {
+  text-align: center;
+}
+
+
+h1 {
+  color: #000000;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 10px;
+}
+
+p {
+  padding: 0;
+  margin: 0 0 15px 0;
+  color: #fff;
+  font-weight: 300;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.column {
+  position: relative;
+  width: 50%;
+  max-width: 350px;
+}
+
+.section-title {
+  width: 50%;
+  text-align: center;
+  align-items: center;
+
+  padding: 40px 0 40px 0;
+}
+
+.section-title img {
+  width: 50rem;
+  max-width: 100%;
+}
+
+.grupo {
+  margin-top: 5rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
+.grupo .imagem-pessoa {
+  position: relative;
+  font-size: 0;
+  text-align: center;
+  border-radius: 100%;
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+
+.grupo .imagem-pessoa img {
+  width: 100%;
+  height: auto;
+  border-radius: 100%;
+  border: 10px solid rgb(133, 203, 243);
+  transition: all 0.3s;
+}
+
+.grupo:hover .imagem-pessoa img {
+  border: 0px solid rgb(94, 99, 244);
+}
+
+.grupo .team-content {
+  text-align: center;
+}
+
+.grupo .team-content h2 {
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 5px;
+}
+
+.grupo .team-social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0;
+  padding: 12px 0 10px 0;
+}
+
+.grupo .team-social a {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  margin-right: 5px;
+  padding: 12px 0 10px 0;
+  font-size: 16px;
+  line-height: 16px;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 100%;
+  transition: all 0.3s;
+}
