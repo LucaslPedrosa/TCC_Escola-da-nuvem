@@ -16,18 +16,10 @@ Estrutura principal
 Autor
 -----
 
-Lucas Pedrosa (LucaslPedrosa)
-
-Licença
--------
-
-Nenhuma especificada.
+Lucas Pedrosa
 
 
-Vídeo de demonstração
----------------------
-
-Vídeo de apresentação do projeto (incorporado abaixo). Se o vídeo não carregar no seu visualizador, use o link de fallback.
+Vídeo de apresentação do projeto 
 
 <video controls width="700">
 	<source src="https://github.com/user-attachments/assets/4d273942-ad3e-47ed-9bf0-ad1070debb64" type="video/mp4">
