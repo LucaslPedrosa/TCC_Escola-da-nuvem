@@ -24,6 +24,4 @@ Estrutura principal
 
 Vídeo de apresentação do projeto 
 
-<video controls width="700">
-	<source src="https://streamable.com/qeh45v" type="video/mp4">
-</video>
+![video](https://github.com/user-attachments/assets/4d273942-ad3e-47ed-9bf0-ad1070debb64)
