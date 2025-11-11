@@ -1,5 +1,11 @@
 # Escola da Nuvem — Projeto TCC
 
+Autor
+
+
+Lucas Pedrosa
+-----
+
 Este repositório contém um site estático criado como parte do TCC "Escola da Nuvem".
 
 - Abra o arquivo `index.html` no seu navegador (duplo clique).
@@ -13,14 +19,11 @@ Estrutura principal
 - `cv/` — arquivos do currículo
 - `img/` — imagens e ícones usados no site
 
-Autor
 -----
-
-Lucas Pedrosa
 
 
 Vídeo de apresentação do projeto 
 
 <video controls width="700">
-	<source src="https://github.com/user-attachments/assets/4d273942-ad3e-47ed-9bf0-ad1070debb64" type="video/mp4">
+	<source src="https://streamable.com/qeh45v" type="video/mp4">
 </video>
