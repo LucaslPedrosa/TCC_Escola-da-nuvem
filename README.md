@@ -24,4 +24,6 @@ Estrutura principal
 
 Vídeo de apresentação do projeto 
 
-![video](https://github.com/user-attachments/assets/4d273942-ad3e-47ed-9bf0-ad1070debb64)
+![gif](https://cdn.discordapp.com/attachments/1437650918483955752/1437663416910221444/dIobppR.gif?ex=69140fe5&is=6912be65&hm=ab1f218dd32254084d457803e0c21d176d058e9d4d5be2bc9418f808254ce981&)
+
+
