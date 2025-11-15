@@ -1,10 +1,5 @@
 # Escola da Nuvem — Projeto TCC
 
-Autor
-
-
-Lucas Pedrosa
------
 
 Este repositório contém um site estático criado como parte do TCC "Escola da Nuvem".
 
